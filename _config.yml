@@ -1,3 +1,12 @@
+# _config.yml
 title: Kayleigh Browne
-logo: headshot.png
+description: My Portfolio
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
+
+# Navigation menu
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
